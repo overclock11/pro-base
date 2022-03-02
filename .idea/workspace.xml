@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c35431d9-b5bd-4f99-889d-126171cb5eb6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="24qoNs4UEDZHfSNW5GKHU7uyubc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="ts.external.directory.path" value="C:\Users\Julian\AppData\Roaming\npm\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c35431d9-b5bd-4f99-889d-126171cb5eb6" name="Default Changelist" comment="" />
+      <created>1644367440540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644367440540</updated>
+      <workItem from="1644367441581" duration="4436000" />
+      <workItem from="1645025869984" duration="63000" />
+      <workItem from="1645060963903" duration="3845000" />
+      <workItem from="1645236296306" duration="1292000" />
+      <workItem from="1645250549319" duration="595000" />
+      <workItem from="1645251673584" duration="1085000" />
+      <workItem from="1645510351699" duration="722000" />
+      <workItem from="1645583922489" duration="3618000" />
+      <workItem from="1645754443070" duration="2662000" />
+      <workItem from="1645844246127" duration="6497000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/bases/app.js" />
+        <option value="$PROJECT_DIR$/bases/tipos/boolean.js" />
+        <option value="$PROJECT_DIR$/bases/tipos/numbers.js" />
+        <option value="$PROJECT_DIR$/bases/tipos/enums.js" />
+        <option value="$PROJECT_DIR$/bases/tipos/tuplas.js" />
+        <option value="$PROJECT_DIR$/bases/tipos/never.js" />
+        <option value="$PROJECT_DIR$/bases/tipos/tarea.js" />
+        <option value="$PROJECT_DIR$/bases/tipos/parametrosRest.js" />
+        <option value="$PROJECT_DIR$/bases/objetos/Ejercicio.js" />
+        <option value="$PROJECT_DIR$/bases/objetos/objects.js" />
+        <option value="$PROJECT_DIR$/bases/objetos/unionTypes.js" />
+        <option value="$PROJECT_DIR$/bases/app.js.map" />
+        <option value="$PROJECT_DIR$/bases/tipos/boolean.js.map" />
+        <option value="$PROJECT_DIR$/bases/tipos/numbers.js.map" />
+        <option value="$PROJECT_DIR$/bases/tipos/never.js.map" />
+        <option value="$PROJECT_DIR$/bases/tipos/enums.js.map" />
+        <option value="$PROJECT_DIR$/bases/tipos/parametrosRest.js.map" />
+        <option value="$PROJECT_DIR$/bases/tipos/tuplas.js.map" />
+        <option value="$PROJECT_DIR$/bases/tipos/tarea.js.map" />
+        <option value="$PROJECT_DIR$/bases/objetos/objects.js.map" />
+        <option value="$PROJECT_DIR$/bases/objetos/Ejercicio.js.map" />
+        <option value="$PROJECT_DIR$/bases/objetos/unionTypes.js.map" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1645755431802">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1645755431802" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1645025928508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1645025928508" />
+    <state x="2411" y="165" key="SettingsEditor" timestamp="1644367768484">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2411" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1644367768484" />
+    <state x="643" y="260" width="634" height="520" key="find.popup" timestamp="1645064082566">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="643" y="260" width="634" height="520" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1645064082566" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1645844413326">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1644369414182" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1645844413326" />
+  </component>
+</project>
